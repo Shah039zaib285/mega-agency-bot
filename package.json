@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "engines": {
     "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "n8n": "^1.0.0"  // <-- Yeh line add karein
   }
 }
